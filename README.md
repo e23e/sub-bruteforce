@@ -4,7 +4,7 @@ Brute Forcing subdomains with HTTP requests
 
 # Usage 
 ```
-usage: SubBruteForce [-h] [-f FILENAME] [-d DOMAINS] -w WORDLIST [-o OUTPUT] [-t THREADS]
+usage: python3 app.py [-h] [-f FILENAME] [-d DOMAINS] -w WORDLIST [-o OUTPUT] [-t THREADS]
 
 Bruteforce the subdomains
 
